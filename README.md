@@ -1,2 +1,2 @@
 # hello-world
-This repository is used following the GitHub Welcome Guide
+Hi! I'm Ric and I'm currently learning how to use GitHub repositories
